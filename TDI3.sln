@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDI3", "TDI3\TDI3.csproj", "{B7B6EDA0-2ED2-4E97-9CF8-28DC86D73A06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UML", "UML", "{0D37B032-185D-4834-B79F-FA0A97C28132}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\UML.drawio.png = ..\..\..\Downloads\UML.drawio.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7B6EDA0-2ED2-4E97-9CF8-28DC86D73A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B6EDA0-2ED2-4E97-9CF8-28DC86D73A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B6EDA0-2ED2-4E97-9CF8-28DC86D73A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B6EDA0-2ED2-4E97-9CF8-28DC86D73A06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D5289B-00A3-4B4E-8460-580836917113}
+	EndGlobalSection
+EndGlobal
